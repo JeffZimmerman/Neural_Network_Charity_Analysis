@@ -1,4 +1,4 @@
-# Neural Network Charity Analysis: A Neural Network Model
+# Neural Network Charity Analysis: Optimizing Deep Learning Models
 
 ## Overview
 This project used the TensorFlow platform in Python to develop and analyze a neural network for classifying charitable donations. The aim was to model training and testing data using machine learning to predict the success of these donations, to plan for best utilization of resources in the future.
